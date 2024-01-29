@@ -1,0 +1,10 @@
+a = 25
+b = 30
+c = a + b
+d = a * b
+f = a/b
+print("a = ", a)
+print("b = ", b)
+print("c = ", c)
+print("d = ", d)
+print("f = ", f)
